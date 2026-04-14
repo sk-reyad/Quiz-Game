@@ -2,7 +2,7 @@
 
 A dynamic, single-page web application engineered to test users' computer science and programming knowledge through a seamless, interactive user interface.
 
-* **Live Demo Link:** [Insert Live Demo Link Here]
+* **Live Demo Link:** https://sk-reyad.github.io/Quiz-Game/
 
 ---
 
